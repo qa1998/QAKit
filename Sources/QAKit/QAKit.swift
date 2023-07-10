@@ -11,6 +11,6 @@ public struct QAKit {
     public init() {
     }
     public static func showLog(){
-        
+        print("hahahah")
     }
 }
