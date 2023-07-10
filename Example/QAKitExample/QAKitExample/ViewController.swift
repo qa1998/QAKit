@@ -7,7 +7,7 @@
 
 import UIKit
 import QAKit
-class ViewController: UIViewController {
+public class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
